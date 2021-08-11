@@ -17,7 +17,7 @@ namespace InstaladorServicos
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new InstaladorServicos());
+            Application.Run(new GerenciadorServicos());
         }
     }
 }

@@ -1,7 +1,7 @@
 ﻿
 namespace InstaladorServicos
 {
-    partial class InstaladorServicos
+    partial class GerenciadorServicos
     {
         /// <summary>
         ///  Required designer variable.
@@ -204,7 +204,7 @@ namespace InstaladorServicos
             this.boxProcessos.Size = new System.Drawing.Size(406, 580);
             this.boxProcessos.TabIndex = 2;
             this.boxProcessos.TabStop = false;
-            this.boxProcessos.Text = "Processos em execução- TaskKill";
+            this.boxProcessos.Text = "Processos em execução - TaskKill";
             // 
             // DuvidaTaskKill
             // 
@@ -239,7 +239,7 @@ namespace InstaladorServicos
             this.ListaProcessos.Size = new System.Drawing.Size(391, 490);
             this.ListaProcessos.TabIndex = 0;
             // 
-            // InstaladorServicos
+            // GerenciadorServicos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -250,10 +250,10 @@ namespace InstaladorServicos
             this.MaximizeBox = false;
             this.MaximumSize = new System.Drawing.Size(869, 745);
             this.MinimumSize = new System.Drawing.Size(869, 745);
-            this.Name = "InstaladorServicos";
+            this.Name = "GerenciadorServicos";
             this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Instalador Serviços";
+            this.Text = "Gerenciador de Serviços";
             this.boxProjeto.ResumeLayout(false);
             this.boxProjeto.PerformLayout();
             this.boxServicos.ResumeLayout(false);
