@@ -14,13 +14,13 @@ using System.Windows.Forms;
 
 namespace InstaladorServicos
 {
-    public partial class InstaladorServicos : Form
+    public partial class GerenciadorServicos : Form
     {
         //Status dos serviços
         public const string statusParado = " - (PARADO)";
         public const string statusEmExecucao = " - (EM EXECUÇÃO)";
 
-        public InstaladorServicos()
+        public GerenciadorServicos()
         {
             InitializeComponent();
 

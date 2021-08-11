@@ -1,7 +1,7 @@
 ﻿
 namespace InstaladorServicos
 {
-    partial class InstaladorServicos
+    partial class GerenciadorServicos
     {
         /// <summary>
         ///  Required designer variable.
@@ -253,7 +253,7 @@ namespace InstaladorServicos
             this.Name = "InstaladorServicos";
             this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Instalador Serviços";
+            this.Text = "Gerenciador de Serviços";
             this.boxProjeto.ResumeLayout(false);
             this.boxProjeto.PerformLayout();
             this.boxServicos.ResumeLayout(false);
