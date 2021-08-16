@@ -8,7 +8,7 @@ Obs: Para facilitar a vida e usabilidade do programa, não é necessário usar n
 
 A lista de serviços e processos da aplicação atualiza a cada interação do usuário com a aplicação, diferente do oficial gerenciador de serviços do windows que te força a clicar no botão de atualizar a todo momento que se manipula os serviços, esta interface além de trazer os serviços (Também o status) traz também os processos que estão em execução (Com o PID).
 
-![image](https://user-images.githubusercontent.com/74942532/129115888-041d7b4e-fe98-492e-8539-52f41435fc26.png)
+![image](https://user-images.githubusercontent.com/74942532/129638288-1e8ebb11-bf44-41f5-bd5b-702591815238.png)
 
 ## Quais são as funções?
 
