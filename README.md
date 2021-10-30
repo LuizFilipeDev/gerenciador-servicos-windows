@@ -46,4 +46,4 @@ Este box é responsável por gerenciar os processos listados (os nomes dos proce
 
 ## Sobre
 
-Aplicação desenvolvida utilizando as seguintes tecnologias: Android Studio, Windows Forms e .NET Framework.
+Aplicação desenvolvida utilizando as seguintes tecnologias: Visual Studio, Windows Forms e .NET Framework.
