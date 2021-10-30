@@ -43,3 +43,7 @@ Este box é responsável por gerenciar os serviços listados (os nomes dos servi
 Este box é responsável por gerenciar os processos listados (os nomes dos processos listados são da propriedade "ProcessName" dos processos), podendo: 
 
 `Parar`: Este botão executa o comando para que os processos selecionados parem. Porém este método é usado caso os serviços não parem de executar pelo box de serviços (Problema recorrente do windows), funcionando assim como um "TaskKill" para o processo com os serviços, geralmente o nome do processo é o nome do executável que você selecionou na hora da instalação, ele estará listado no box referido caso os serviços estejam em execução.
+
+## Sobre
+
+Aplicação desenvolvida utilizando as seguintes tecnologias: Android Studio, Windows Forms e .NET Framework.
